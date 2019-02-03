@@ -1,0 +1,21 @@
+{
+  "name": "hindex",
+  "version": "0.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "bevent": "^0.1.4",
+    "blgr": "^0.1.5",
+    "bmutex": "^0.1.5",
+    "bsert": "0.0.8",
+    "hsd": "github:handshake-org/hsd",
+    "knex": "^0.16.3",
+    "objection": "^1.5.3",
+    "pg": "^7.8.0"
+  }
+}
