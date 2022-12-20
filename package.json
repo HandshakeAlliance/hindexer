@@ -14,8 +14,8 @@
     "bmutex": "^0.1.5",
     "bsert": "0.0.8",
     "hsd": "github:handshake-org/hsd",
-    "knex": "^0.16.3",
-    "objection": "^1.5.3",
+    "knex": "^2.3.0",
+    "objection": "^3.0.1",
     "pg": "^7.8.0"
   }
 }
